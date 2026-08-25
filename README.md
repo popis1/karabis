@@ -3,10 +3,10 @@ A comprehensive set of filters for **uBlock Origin** that allows you to access p
 
 ## Installation
 Just click [here](
-https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/popis1/karabis/refs/heads/main/filters.txt?token=GHSAT0AAAAAAEG4X6D4XEB3EFJDQDD3WJVC2UOAMDQ) to install or...
+https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/popis1/karabis/refs/heads/main/filters.txt?token=GHSAT0AAAAAAEG4X6D5KE72HFEHIBFY64Y42UOASUQ) to install or...
 * Open uBO's dashboard and go to "Filter lists" tab
 * Click the *Import* checkbox in the *Custom* section and paste the URL below:<br> 
-``https://raw.githubusercontent.com/popis1/karabis/refs/heads/main/filters.txt?token=GHSAT0AAAAAAEG4X6D4XEB3EFJDQDD3WJVC2UOAMDQ``
+``https://raw.githubusercontent.com/popis1/karabis/refs/heads/main/filters.txt?token=GHSAT0AAAAAAEG4X6D5KE72HFEHIBFY64Y42UOASUQ``
 
 
 ## Support table for filters
@@ -14,4 +14,3 @@ Site             | Chromium-based browsers | Firefox browser
 -----------------|-----------------------|----------------
 karachan.org     | :heavy_check_mark:    | :heavy_check_mark:
 wilchan.org      | :heavy_check_mark:    | :heavy_check_mark:
-chanwiki.com     | :heavy_check_mark:    | :heavy_check_mark:
