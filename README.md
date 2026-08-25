@@ -1,12 +1,12 @@
-# karachan-filters
+# karachan_revanced-filters
 A comprehensive set of filters for **uBlock Origin** that allows you to access polish imageboards such as Karachan and other related sites.
 
 ## Installation
 Just click [here](
-https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/czaczar/karachan-filters/master/filters.txt&title=karachan-filters) to install or...
+https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/popis1/karabis/refs/heads/main/filters.txt?token=GHSAT0AAAAAAEG4X6D5EZLNBYVVGE4ZXVII2UOAIEA) to install or...
 * Open uBO's dashboard and go to "Filter lists" tab
 * Click the *Import* checkbox in the *Custom* section and paste the URL below:<br> 
-``https://raw.githubusercontent.com/czaczar/karachan-filters/master/filters.txt``
+``https://raw.githubusercontent.com/popis1/karabis/refs/heads/main/filters.txt?token=GHSAT0AAAAAAEG4X6D5EZLNBYVVGE4ZXVII2UOAIEA``
 
 
 ## Support table for filters
