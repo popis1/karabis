@@ -3,10 +3,10 @@ A comprehensive set of filters for **uBlock Origin** that allows you to access p
 
 ## Installation
 Just click [here](
-https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/popis1/karabis/refs/heads/main/filters.txt?token=GHSAT0AAAAAAEG4X6D5EZLNBYVVGE4ZXVII2UOAIEA) to install or...
+https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/popis1/karabis/refs/heads/main/filters.txt?token=GHSAT0AAAAAAEG4X6D4XEB3EFJDQDD3WJVC2UOAMDQ) to install or...
 * Open uBO's dashboard and go to "Filter lists" tab
 * Click the *Import* checkbox in the *Custom* section and paste the URL below:<br> 
-``https://raw.githubusercontent.com/popis1/karabis/refs/heads/main/filters.txt?token=GHSAT0AAAAAAEG4X6D5EZLNBYVVGE4ZXVII2UOAIEA``
+``https://raw.githubusercontent.com/popis1/karabis/refs/heads/main/filters.txt?token=GHSAT0AAAAAAEG4X6D4XEB3EFJDQDD3WJVC2UOAMDQ``
 
 
 ## Support table for filters
